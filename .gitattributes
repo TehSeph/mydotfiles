@@ -1,0 +1,40 @@
+* text=auto
+
+*.doc  diff=astextplain
+*.docx diff=astextplain
+*.pdf  diff=astextplain
+*.rtf  diff=astextplain
+
+*.js   eol=crlf
+*.json eol=crlf
+
+*.css  eol=crlf
+*.sass eol=crlf
+*.scss eol=crlf
+*.svg  eol=crlf
+
+*.htm  eol=crlf
+*.html eol=crlf
+*.php  eol=crlf
+*.xml  eol=crlf
+
+*.ejs  eol=crlf
+*.hbs  eol=crlf
+*.twig eol=crlf
+
+*.cfg  eol=crlf
+*.ini  eol=crlf
+
+*.md   eol=crlf
+*.txt  eol=crlf
+
+*.bmp  binary
+*.gif  binary
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+
+*.7z  diff=zip
+*.gz  diff=zip
+*.rar diff=zip
+*.zip diff=zip
